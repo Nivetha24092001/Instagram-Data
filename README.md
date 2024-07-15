@@ -28,3 +28,6 @@ Look for requests to instagram.com.
 Click on one of the requests to open the details.
 Go to the Cookies tab within the request details.
 Find the sessionid cookie and copy its value.
+
+
+For More Reference about Instaloader: https://instaloader.github.io/
